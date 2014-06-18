@@ -1,0 +1,39 @@
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.exe
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.pdb
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.login.resources
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Properties.Resources.resources
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.csproj.GenerateResource.Cache
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.exe
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.pdb
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormPrincipal.resources
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Form1.resources
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.IP.resources
+c:\users\sofian\documents\visual studio 2010\Projects\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormScores.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.exe
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.exe
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.exe
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Form1.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormPrincipal.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormScores.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormIP.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.login.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Properties.Resources.resources
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.csproj.GenerateResource.Cache
+C:\Users\sofian\Desktop\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.csprojResolveAssemblyReference.cache
+F:\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.exe
+F:\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.exe
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.exe
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\bin\Debug\PingPongReseau.pdb
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.csprojResolveAssemblyReference.cache
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Form1.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormPrincipal.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormScores.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.FormIP.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.login.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.Properties.Resources.resources
+C:\Users\sofian\Desktop\labo degeest garcia debia\c# projet\PingPongReseau\PingPongReseau\PingPongReseau\obj\x86\Debug\PingPongReseau.csproj.GenerateResource.Cache

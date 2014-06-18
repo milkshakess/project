@@ -1,0 +1,4 @@
+<!DOCTYPE accounts[<!ELEMENT user EMPTY> <!ATTLIST user ident ID #REQUIRED >]>
+<accounts>
+  <user ident="Admin" passwd="4e7afebcfbae000b22c7c85e5560f89a2a0280b4" />
+</accounts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<PongData xmlns="http://tempuri.org/PongData.xsd">
+  <Jeux>
+    <NomJoueur>Sofian</NomJoueur>
+    <Score>3</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>gab</NomJoueur>
+    <Score>3</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>VotreNom</NomJoueur>
+    <Score>6</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>VotreNom</NomJoueur>
+    <Score>2</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>test</NomJoueur>
+    <Score>6</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>VotreNom</NomJoueur>
+    <Score>1</Score>
+  </Jeux>
+  <Jeux>
+    <NomJoueur>VotreNom</NomJoueur>
+    <Score>2</Score>
+  </Jeux>
+</PongData>
